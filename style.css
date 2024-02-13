@@ -1,0 +1,35 @@
+body{
+    background-color: palevioletred;
+}
+.Gif{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+.Gif img{
+    width: 50%;
+    border-radius: 30%;
+}
+.Gif h1{
+    font-weight: 900;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.yesButton{
+   background-color: greenyellow;
+   padding: 20px;
+   width: 10%;
+   border-radius: 8px;
+   font-size: 20px;
+   font-weight: 900;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.noButton{
+    background-color: red;
+    padding: 20px;
+   width: 10%;
+   border-radius: 8px;
+   font-size: 20px;
+   font-weight: 900;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
